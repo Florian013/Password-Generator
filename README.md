@@ -53,5 +53,5 @@ If you would like to contribute to this project, please feel free to open issues
 
 ## License
 
-This project is licensed under the MIT License - see the [License](License) file for details.
+This project is licensed under the MIT License - see the [License.txt](License.txt) file for details.
 

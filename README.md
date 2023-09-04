@@ -20,7 +20,7 @@ This Python program allows you to generate random passwords of a specified lengt
 Make sure you have Python installed on your computer. You can download it from [python.org](https://www.python.org/downloads/).
 
 Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/Florian013/password-generator.git
 
 Navigate to the project directory:
 cd password-generator
@@ -53,5 +53,5 @@ If you would like to contribute to this project, please feel free to open issues
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](License) file for details.
 
